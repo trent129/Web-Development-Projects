@@ -45,7 +45,7 @@ body{
     z-index: -1;
 
 }
-
+/* Progress Line */
 .progress {
     background-color: var(--line-border-fill);
     position: absolute;
@@ -58,6 +58,7 @@ body{
     transition: .4s ease;
 }
 
+/* Inactive Circle Conditions */
 .circle{
     background-color: #fff;
     color: #999;
@@ -71,10 +72,12 @@ body{
     transition:.4s ease;
 }
 
+/* Active Circle Conditions */
 .circle.active{
     border-color: var(--line-border-fill);
 }
 
+/* Active Button Conditions */
 .btn{
     background-color: var(--line-border-fill);
     color:#fff;
@@ -94,6 +97,7 @@ body{
     outline: 0;
 }
 
+/* Disabled Button Conditions */
 .btn:disabled {
     background-color: var(--line-border-empty);
     cursor: not-allowed;
