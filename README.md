@@ -2,4 +2,6 @@
 This is a collection of web development mini-projects I am working on to improve my html, css, and js skills. The projects are listed below with a short description. All the projects are from an Udemy course "50 Projects in 50 Days". This first repository will cover projects 1-25. 
 
 Project List
-1. Expanding Cards- This project has 5 panels of photos when you click on one it expands out. Some added functionality will be to have compress on click after I finish commmenting on it. 
+1. Expanding Cards- This project has 5 panels of photos when you click on one it expands out. Some added functionality will be to have compress on click later on. 
+2. Progress Steps- Upon click a panel it moves to next circle or step in a process.
+3. Rotating Navigation- Upon click a panel it rotates up revealing more icons 
