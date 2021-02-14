@@ -5,3 +5,4 @@ Project List
 1. Expanding Cards- This project has 5 panels of photos when you click on one it expands out. Some added functionality will be to have compress on click later on. 
 2. Progress Steps- Upon click a panel it moves to next circle or step in a process.
 3. Rotating Navigation- Upon click a panel it rotates up revealing more icons 
+4. Hidden Search Widget- Upon click it reveals a search bar to fill information and toggles
