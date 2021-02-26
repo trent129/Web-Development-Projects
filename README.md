@@ -7,3 +7,4 @@ Project List
 3. Rotating Navigation- Upon click a panel it rotates up revealing more icons 
 4. Hidden Search Widget- Upon click it reveals a search bar to fill information and toggles
 5. Blur Percentage- the screen will show a percentage it loads from a blurred screen.
+6. Scroll Animation: the boxes will come in from the right and left alternating as you scroll down the page.
