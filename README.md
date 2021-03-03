@@ -1,5 +1,5 @@
 # Web-Development-Projects
-This is a collection of web development mini-projects I am working on to improve my html, css, and js skills. The projects are listed below with a short description. All the projects are from an Udemy course "50 Projects in 50 Days". This first repository will cover projects 1-25. 
+This is a collection of web development mini-projects I am working on to improve my html, css, and js skills. The projects are listed below with a short description. All the projects are from an Udemy course "50 Projects in 50 Days". 
 
 Project List
 1. Expanding Cards- This project has 5 panels of photos when you click on one it expands out. Some added functionality will be to have compress on click later on. 
@@ -9,3 +9,5 @@ Project List
 5. Blur Percentage- the screen will show a percentage it loads from a blurred screen.
 6. Scroll Animation: the boxes will come in from the right and left alternating as you scroll down the page.
 7. Sound Board: sounds play when you click the button.
+8. Split Screen Loading: the screen expands and shrinks depending on which one you are on. The button color also changes as you hover on it. 
+
