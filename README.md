@@ -10,4 +10,4 @@ Project List
 6. Scroll Animation: the boxes will come in from the right and left alternating as you scroll down the page.
 7. Sound Board: sounds play when you click the button.
 8. Split Screen Loading: the screen expands and shrinks depending on which one you are on. The button color also changes as you hover on it. 
-
+9. Form Wave: the form text moves up when you go to fill in the input
