@@ -4,10 +4,11 @@ This is a collection of web development mini-projects I am working on to improve
 Project List
 1. Expanding Cards- This project has 5 panels of photos when you click on one it expands out. Some added functionality will be to have compress on click later on. 
 2. Progress Steps- Upon click a panel it moves to next circle or step in a process.
-3. Rotating Navigation- Upon click a panel it rotates up revealing more icons 
-4. Hidden Search Widget- Upon click it reveals a search bar to fill information and toggles
+3. Rotating Navigation- Upon click a panel it rotates up revealing more icons. 
+4. Hidden Search Widget- Upon click it reveals a search bar to fill information and toggles.
 5. Blur Percentage- the screen will show a percentage it loads from a blurred screen.
 6. Scroll Animation: the boxes will come in from the right and left alternating as you scroll down the page.
 7. Sound Board: sounds play when you click the button.
 8. Split Screen Loading: the screen expands and shrinks depending on which one you are on. The button color also changes as you hover on it. 
-9. Form Wave: the form text moves up when you go to fill in the input
+9. Form Wave: the form text moves up when you go to fill in the input. 
+10. Dad Joke Generator: It updates with a new joke when you click a button. 
