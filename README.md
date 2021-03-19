@@ -12,3 +12,4 @@ Project List
 8. Split Screen Loading: the screen expands and shrinks depending on which one you are on. The button color also changes as you hover on it. 
 9. Form Wave: the form text moves up when you go to fill in the input. 
 10. Dad Joke Generator: It updates with a new joke when you click a button. 
+11. Event Key Code: when you press a key it shows the key, keycode, and the event code
