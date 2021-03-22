@@ -13,3 +13,4 @@ Project List
 9. Form Wave: the form text moves up when you go to fill in the input. 
 10. Dad Joke Generator: It updates with a new joke when you click a button. 
 11. Event Key Code: when you press a key it shows the key, keycode, and the event code
+12. FAQ Dropdown: when you click the button the faq answer drops down and retracts when you click the x button
