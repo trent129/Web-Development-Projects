@@ -17,4 +17,4 @@ This is a collection of web development mini-projects I am working on to improve
 13. Random Choice Selector: You create a list of choice and it cycles through and picks one randomly. This was the trickiest js I have encountered so far. 
 14. Animation Navigation: You click the button and it closes the navigation links to just the button to save space on the page.
 15. Increment Counter: It counts up to your target value for whatever you want to count. 
-16. 
+16. Drink Water: It adds up your the total amount of water you drank for a day. 
