@@ -18,3 +18,4 @@ This is a collection of web development mini-projects I am working on to improve
 14. Animation Navigation: You click the button and it closes the navigation links to just the button to save space on the page.
 15. Increment Counter: It counts up to your target value for whatever you want to count. 
 16. Drink Water: It adds up your the total amount of water you drank for a day. 
+17. Movie App: It shows a list of the most popular recent movies and also has a search feature. 
