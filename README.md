@@ -19,3 +19,4 @@ This is a collection of web development mini-projects I am working on to improve
 15. Increment Counter: It counts up to your target value for whatever you want to count. 
 16. Drink Water: It adds up your the total amount of water you drank for a day. 
 17. Movie App: It shows a list of the most popular recent movies and also has a search feature. 
+18. Background Slider- the background changes with when you click 
