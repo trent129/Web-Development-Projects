@@ -20,3 +20,6 @@ This is a collection of web development mini-projects I am working on to improve
 16. Drink Water: It adds up your the total amount of water you drank for a day. 
 17. Movie App: It shows a list of the most popular recent movies and also has a search feature. 
 18. Background Slider- the background changes with when you click 
+19. Kinetic Loader- the triangles infinite rotate with animation.
+20. Button Ripple- a circle effect happens when you click on the button.
+
