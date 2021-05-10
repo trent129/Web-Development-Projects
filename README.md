@@ -23,4 +23,5 @@ This is a collection of web development mini-projects I am working on to improve
 19. Kinetic Loader- the triangles infinite rotate with animation.
 20. Button Ripple- a circle effect happens when you click on the button.
 21. Theme Clock - A dynamic clock where you can switch it from light to dark mode.
+22. Drap and Drop - Image can be moved from different div locations. 
 
