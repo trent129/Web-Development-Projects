@@ -25,5 +25,6 @@ This is a collection of web development mini-projects I am working on to improve
 21. Theme Clock - A dynamic clock where you can switch it from light to dark mode.
 22. Drap and Drop - Image can be moved from different div locations. 
 23. Drawing app - The canvas api is used to create a window to draw from size 5-50 with a provided color spectrum. 
+24. Content Holder - It loads content when you open it up. 
 
 
